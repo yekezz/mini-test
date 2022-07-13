@@ -1,0 +1,19 @@
+{
+  "name": "mini-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^5.0.1",
+    "expect": "^28.1.1",
+    "glob": "^8.0.3",
+    "jest-circus": "^28.1.2",
+    "jest-haste-map": "^28.1.1"
+  }
+}
